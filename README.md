@@ -12,8 +12,6 @@ Research Question: How has the sentiment of Sabrina Carpenter’s lyrics evolved
 
 This repository contains:
 * ```SabrinaCarpenterResearchProject.ipynb``` - a Python notebook containing all the code used for data collection/processing/exploration, plotting statistical analysis visualizations, and a detailed narrative
-* Link to **Binder** to easily interact with the project notebook on the web
-* ```requirements.txt``` - lists all the dependencies for Binder to create the Jupyter environment
-* Link to **blog site** to view the condensed overview of this project!
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilynham/dh140-finalproject/HEAD)
+* Link to **Binder** to easily interact with the project's Jupyter notebook on the web: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilynham/dh140-finalproject/HEAD) (*Note: Binder takes a bit to start up the environment*)
+* ```requirements.txt``` - contains the dependencies for Binder to create the Jupyter environment
+* [Link to **blog site**](https://emilynham.github.io/blog/) to view the report!
