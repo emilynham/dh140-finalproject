@@ -1,0 +1,7 @@
+requests
+bs4
+nltk
+matplotlib
+pandas
+numpy
+altair
